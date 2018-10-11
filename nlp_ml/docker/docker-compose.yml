@@ -1,5 +1,5 @@
 nlp_ml:
-  image: psygrammer/deepcon:0.2
+  image: psygrammer/deepcon:0.3
   ports:
     - "8888:8888"
     - "6006:6006"
